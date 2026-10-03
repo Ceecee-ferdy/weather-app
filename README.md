@@ -8,7 +8,7 @@ Users can search for cities, view current weather conditions, save recent search
 
 ## 🚀 Live Demo
 
-[View Live Project]( https://ceecee-ferdy.github.io/ceeweather/)
+[View Live Project]( https://weather-app-eight-mu-18.vercel.app/)
 
 ---
 
